@@ -87,7 +87,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👥 Authors
 
-- **Abdelrahman Gamal Zayed ** - *Initial work* - [Your GitHub](https://github.com/Abdelra7manZayed)
+- **Abdelrahman Gamal Zayed** - *Initial work* - [Your GitHub](https://github.com/Abdelra7manZayed)
 
 ## 🙏 Acknowledgments
 
